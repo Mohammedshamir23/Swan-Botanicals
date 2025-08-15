@@ -2,8 +2,7 @@
 
 A creative and responsive website built for **The Swan**, celebrating botanical beauty and design innovation.  
 This project was created as part of the *Build for Botanicals – The Swan Website Design Challenge*.
-
-![The Swan Preview](./screenshot.png) <!-- Add a screenshot if available -->
+ <!-- Add a screenshot if available -->
 
 ---
 
@@ -45,4 +44,5 @@ Build for Botanicals – Organizers of the challenge
 Tailwind CSS – For beautiful utility-first styling
 
 Vite – For making development incredibly fast
+
 
