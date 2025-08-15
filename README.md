@@ -36,4 +36,13 @@ It uses a modern frontend stack to deliver a fast, accessible, and visually appe
 ---
 
 ## 📂 Project Structure
+Acknowledgements
+
+The Swan – Event theme inspiration
+
+Build for Botanicals – Organizers of the challenge
+
+Tailwind CSS – For beautiful utility-first styling
+
+Vite – For making development incredibly fast
 
